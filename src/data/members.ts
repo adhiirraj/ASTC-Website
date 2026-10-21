@@ -1,6 +1,401 @@
 import { Member } from "../types"
 
 export const members: Member[] = [
+	
+	
+  {
+    "id": "23JE0847",
+    "name": "Bobbili Nandagopal",
+    "email": "23je0248@iitism.ac.in",
+    "contactNo": "7036480245",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/nandagopal-bobbili"
+    },
+    "img": null,
+    "yearOfGrad": "2027"
+  },
+  
+  {
+    "id": "23JE0076",
+    "name": "Vidya Shree",
+    "email": "23je0076@iitism.ac.in",
+    "contactNo": null,
+    "links": {},
+    "img": null,
+    "yearOfGrad": "2027"
+  },
+  {
+    "id": "23JE1034",
+    "name": "Shyamsri TS",
+    "email": "23je1034@iitism.ac.in",
+    "contactNo": "6302025136",
+    "links": {},
+    "img": null,
+    "yearOfGrad": "2027"
+  },
+  {
+    "id": "23JE0670",
+    "name": "Nithya Sahasra",
+    "email": "23je0670@iitism.ac.in",
+    "contactNo": null,
+    "links": {},
+    "img": null,
+    "yearOfGrad": "2027"
+  },
+  
+  {
+    "id": "23JE0872",
+    "name": "Abhishek Saranga",
+    "email": "23je0872@iitism.ac.in",
+    "contactNo": "7075978399",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/abhishek-saranga-aa0508287/"
+    },
+    "img": null,
+    "yearOfGrad": "2027"
+  },
+  
+  {
+    "id": "23JE0663",
+    "name": "Likitha Nookala",
+    "email": "23je0663@iitism.ac.in",
+    "contactNo": "8897143364",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/likitha-nookala-279909289"
+    },
+    "img": null,
+    "yearOfGrad": "2027"
+  },
+ 
+  {
+    "id": "22JE0028",
+    "name": "Abhirup Adhikary",
+    "email": "abhirup.adhikary2004@gmail.com",
+    "contactNo": "+91-8240804459",
+    "links": {
+      "github": "https://github.com/AbhiZx18324",
+      "linkedin": "https://www.linkedin.com/in/abhirup-adhikary/"
+    },
+    "img": "abhirup-adhikary.jpg",
+    "yearOfGrad": "2026"
+  },
+  {
+    "id": "22JE0873",
+    "name": "Sarvesh Bhoyar",
+    "email": "Sarveshkbhoyar2022@gmail.com",
+    "contactNo": "9405437975",
+    "links": {
+      "github": "https://github.com/sarveshbhoyar22",
+      "linkedin": "https://www.linkedin.com/in/sarvesh-bhoyar-711818239/",
+      "instagram": "https://www.instagram.com/sarvesh_bhoyar_/profilecard/igsh=MXExd3I1enNkcXloNQ==",
+      "website": "https://sarvesh-bhoyar.onrender.com/"
+    },
+    "img": "sarvesh-bhoyar.jpg",
+    "yearOfGrad": "2026"
+  },
+  {
+    "id": "22JE0291",
+    "name": "Christy Harshitha Dakarapu",
+    "email": "22je0291@iitism.ac.in",
+    "contactNo": "9346582015",
+    "links": {},
+    "img": null,
+    "yearOfGrad": "2026"
+  },
+  {
+    "id": "22JE0399",
+    "name": "Harshkumar Gupta",
+    "email": "22je0399@iitism.ac.in",
+    "contactNo": "9892718815",
+    "links": {
+      "github": "https://github.com/hkg-2424",
+      "linkedin": "https://www.linkedin.com/in/harshkumar-gupta-98b452250/"
+    },
+    "img": null,
+    "yearOfGrad": "2027"
+  },
+  {
+    "id": "22JE0665",
+    "name": "Parth Dambhare",
+    "email": "dambhareparth08@gmail.com",
+    "contactNo": null,
+    "links": {},
+    "img": null,
+    "yearOfGrad": "2026"
+  },
+  {
+    "id": "22JE0000",
+    "name": "Vinit Bodhe",
+    "email": null,
+    "contactNo": null,
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/vinitsbodhe/"
+    },
+    "img": "vinit.png",
+    "yearOfGrad": "2026"
+  },
+  {
+    "id": "22JE0713",
+    "name": "Pranav Sanjay Bhasakhetre",
+    "email": "22je0713@iitism.ac.in",
+    "contactNo": "7499951132",
+    "links": {
+      "linkedin": "https://www.linkedin.com/in/pranav-bhasakhetre-492783255?utm_source=share",
+      "instagram": "https://www.instagram.com/pranavbhasakhetre"
+    },
+    "img": "pranav-basakhetre.jpg",
+    "yearOfGrad": "2026"
+  }
+,
+	{
+		id: "25JE0802",
+		name: "Shreya Mittal",
+		email: "25je0802@iitism.ac.in",
+		contactNo: "9289420978",
+		links: {
+		linkedin: "https://linkedin.com/in/shreya-mittal-0bab81377",
+		instagram: "shreyamittal_022",
+		},
+		img: null,
+		yearOfGrad: "2029",
+	},
+
+
+	
+	{
+		id: "25JE0176",
+		name: " Saumya Padhya ",
+		email: "25je0176@iitism.ac.in",
+		contactNo: " 7041327126 ",
+		links: {
+			github: "https://github.com/Somlo10",
+			linkedin: "https://www.linkedin.com/in/saumya-padhya-7827b1395/",
+			instagram: "https://www.instagram.com/sau_mya_14/",
+			twitter: "https://x.com/somlo1406?t=-7L2jhmZ7s5h29botWTOgQ&s=09"
+		},
+		img: "saumya.jpg",
+		yearOfGrad: "2029",
+	},
+	
+	{
+		id: "25JE1082",
+		name: "Pranjal Pansari",
+		email: "25je1082@iitism.ac.in ",
+		contactNo: "8003750000",
+		links: {
+			github: "https://github.com/Incred4032 ",
+			linkedin: " https://www.linkedin.com/in/pranjal-pansari-218517371 /",
+			instagram: "https://www.instagram.com/legend_27th1/ ",
+		},
+		img: "pranjal.jpg",
+		yearOfGrad: "2029 ",
+	},
+	
+	{
+		id: " 25JE0377",
+		name: "Mayuresh Bhor",
+		email: "mayubhor07@gmail.com",
+		contactNo: "8080930834",
+		links: {
+			linkedin: "https://www.linkedin.com/in/mayuresh-bhor-0415ab378",
+			instagram: "https://www.instagram.com/mb_bhor007?igsh=MWVuNWVoampuYXhuNA==",
+		},
+		img: "mayuresh.jpg",
+		yearOfGrad: "2029",
+	},
+	
+	{
+		id: "25JE0806",
+		name: "Tanvika Ojha",
+		email: "25je0806@iitism.ac.in",
+		contactNo: "7754825990",
+		links: {
+			linkedin: "https://www.linkedin.com/in/tanvika-ojha-941148377",
+			instagram: "https://instagram.com/i_Tanvikaojha",
+		},
+		img: null,
+		yearOfGrad: "2029",
+	},
+	
+	{
+		id: "25JE0803",
+		name: "Shruti Yadav",
+		email: "25je0803@iitism.ac.in",
+		contactNo: "9219727319",
+		links: {
+			linkedin: "https://www.linkedin.com/in/shruti-yadav-24433a37" 
+		},
+		img: null,
+		yearOfGrad: "2029",
+	},
+	
+
+
+
+	
+	{
+		id: "25JE0792",
+		name: "Kevin Jonathan",
+		email: "25je0792@iitism.ac.in",
+		contactNo: "8904886997",
+		links: {
+			linkedin: "https://www.linkedin.com/in/kevin-jonathan-6515682a7/",
+			instagram: "https://instagram.com/kevin_jonathan._",
+		},
+		img: null,
+		yearOfGrad: "2029",
+	},
+
+
+	
+
+
+
+	{
+		id: "25JE0385",
+		name: "Nikhitha Rose Baiju",
+		email: "25je0385@iitism.ac.in",
+		contactNo: "8848627696",
+		links: {
+			linkedin: "https://www.linkedin.com/in/nikhitha-rose-baiju-456a002ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+			instagram: "https://www.instagram.com/_aventure_spatiale_?igsh=aGxpYmVtbHQxZm1x",
+		},
+		img: "Nikhitha.jpg",
+		yearOfGrad: " 2029",
+	},
+
+	{
+		id: "25JE0284",
+		name: "Parth Patil ",
+		email: "25je0284@iitism.ac.in",
+		contactNo: "7620966536",
+		links: {
+			linkedin: "https://www.linkedin.com/in/patil-parth-d-385840278?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+			instagram: "patilparth743",
+		},
+		img: "Parth.jpg",
+		yearOfGrad: "2029 ",
+	},
+	
+	{
+		id: "25JE0288",
+		name: "Ridhima Makol",
+		email: "ridhima.makol@gmail.com",
+		contactNo: "9910318209",
+		links: {
+			linkedin: "https://www.linkedin.com/in/ridhima-makol-84400b261?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+			instagram: "https://instagram.com/ridhimamakol",
+		},
+		img: "ridhima.jpg",
+		yearOfGrad: "2029 ",
+	},
+
+	
+
+
+	
+
+	
+	{
+		id: "25JE0168",
+		name: "Raxit Gupta",
+		email: "25je0168@iitism.ac.in ",
+		contactNo: "9717401065",
+		links: {
+			github: "https://github.com/La-Talia",
+			linkedin: "https://www.linkedin.com/in/raxit-gupta-7a3958269/",
+			instagram: "https://www.instagram.com/raxitgupta/",
+			twitter: "https://x.com/GuptaRaxit",
+		},
+		img: "Raxit.jpg",
+		yearOfGrad: "2029 ",
+	},
+	
+
+
+
+	
+	{
+		id: "25JE0291 ",
+		name: "Satya Vardhan Singh ",
+		email: "25je0291@iitism.ac.in ",
+		contactNo: "9622249742",
+		links: {
+			github: "https://github.com/SatyaVardhanSingh ",
+			linkedin: "https://www.linkedin.com/in/satya-vardhan-singh-501b79377 ",
+			instagram: "https://www.instagram.com/_satya_vardhan/ ",
+			twitter: "https://x.com/SatyaVardhan007 ",
+		},
+		img: "Satya.jpg ",
+		yearOfGrad: "2029 ",
+	},
+
+	
+	
+	
+
+	{
+		id: " 25JE0052",
+		name: "Kavyanshu Singh",
+		email: "singhkavyanshu698@gmail.com",
+		contactNo: "9284111232",
+		links: {
+			github: "https://github.com/KavyanshuSingh",
+			linkedin: "https://www.linkedin.com/in/kavyanshu-singh-68b734373",
+		},
+		img: null,
+		yearOfGrad: "2029",
+	},
+	
+
+	{
+		id: "25JE0608",
+		name: "Adhiraj Singh",
+		email: "25je0608@iitism.ac.in",
+		contactNo: "9855745211",
+		links: {
+			github: "https://github.com/adhiirraj",
+			linkedin: "https://www.linkedin.com/in/adhiirraj//",
+			instagram: "https://www.instagram.com/adhiirraj/",
+			twitter: "https://x.com/25je0608",
+		},
+		img: "adhiraj.jpg",
+		yearOfGrad: "2029",
+	},
+	
+	{
+		id: "25JE0782",
+		name: "Arindam Chakraborty",
+		email: "25je0782@iitism.ac.in",
+		contactNo: "7676008217",
+		links: {
+			github: "https://github.com/arindamchak2019",
+			linkedin: "https://www.linkedin.com/in/arindam-chakraborty-742646276/",
+			instagram: "https://www.instagram.com/sunny_and_bunny2020/",
+			twitter: "https://x.com/sunnyandbunny",
+		},
+		img: null,
+		yearOfGrad: "2029",
+	},
+	
+	
+
+	
+
+  
+  {
+    id: "24JE0170",
+    name: "Shreyansh Nema",
+    email: "24je0170@iitism.ac.in",
+    contactNo: "9713449821",
+    links: {
+      linkedin: "https://www.linkedin.com/in/shreyansh-nema-762893320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+    },
+    img: "shreyansh.jpg",
+    yearOfGrad: "2028",
+  },
+
+
   {
     id: "24JE0737",
     name: "Manas Lokhande",
@@ -75,31 +470,8 @@ export const members: Member[] = [
     img: "sumit-kumar.jpg",
     yearOfGrad: "2028",
   },
-  {
-    id: "24JE1097",
-    name: "Ojas Verma",
-    email: "24je1097@iitism.ac.in",
-    contactNo: "7568229799",
-    links: {
-      linkedin: "https://www.linkedin.com/in/ojas-verma-1a597031b/",
-      twitter: "https://x.com/ojas_verma3000",
-    },
-    img: null,
-    yearOfGrad: "2029",
-  },
-  {
-    id: "24JE0956",
-    name: "Parimi Sathwik",
-    email: "sathwikparimi777@gmail.com",
-    contactNo: "7386973447",
-    links: {
-      github: "https://github.com/Sathwik-parimi-07",
-      linkedin: "https://www.linkedin.com/in/sathwik-parimi/",
-      instagram: "https://www.instagram.com/sathwik_parimi/",
-    },
-    img: "parimi-sathwik.jpg",
-    yearOfGrad: "2028",
-  },
+
+
   {
     id: "24JE0613",
     name: "Dhanya Gautam",
@@ -112,18 +484,7 @@ export const members: Member[] = [
     img: "dhanya-gautam.jpg",
     yearOfGrad: "2028",
   },
-  {
-    id: "24JE0571",
-    name: "Roshni Gupta",
-    email: "roshnigupta70354@gmail.com",
-    contactNo: "8115261074",
-    links: {
-      linkedin: "https://www.linkedin.com/in/roshni-gupta-a67985320/",
-      instagram: "https://www.instagram.com/roshni_gupta7539",
-    },
-    img: null,
-    yearOfGrad: "2028",
-  },
+  
   {
     id: "24JE0727",
     name: "Adriel John",
@@ -183,66 +544,11 @@ export const members: Member[] = [
     img: "vaidehi-shivram-hegde.jpg",
     yearOfGrad: "2028",
   },
-  {
-    id: "24JE1074",
-    name: "Kanishka Jain",
-    email: "24je1074@iitism.ac.in",
-    contactNo: "9829490865",
-    links: {
-      github: "http://www.github.com/Kanishkaajaiinn",
-      linkedin: "http://www.linkedin.com/in/kanishkaajaiinn",
-      instagram: "http://www.instagram.com/Kanishkaajaiinn",
-    },
-    img: "kanishka-jain.jpg",
-    yearOfGrad: "2029",
-  },
-  {
-    id: "24JE1084",
-    name: "Utkarsh Sharma",
-    email: "24je1084@iitism.ac.in",
-    contactNo: "7459932622",
-    links: {
-      github: "https://github.com/Utkarsh1084",
-      linkedin: "https://www.linkedin.com/in/utkarsh-sharma-467964320/",
-      instagram:
-        "https://www.instagram.com/utkarsh_5450igsh=MTNmZzFpdmtvZTI2OQ==",
-    },
-    img: "utkarsh-sharma.jpg",
-    yearOfGrad: "2028",
-  },
-  {
-    id: "24JE0732",
-    name: "Fathima Minha",
-    email: "24je0732@iitism.ac.in",
-    contactNo: "9360099538",
-    links: {
-      linkedin: "https://www.linkedin.com/in/fathima-minha-b79409320/",
-    },
-    img: null,
-    yearOfGrad: "2028",
-  },
-  {
-    id: "24JE1005",
-    name: "Divy Sharma",
-    email: "24je1005@iitism.ac.in",
-    contactNo: "6392789151",
-    links: {
-      linkedin: "https://www.linkedin.com/in/divy-sharma-6a12aa321/",
-    },
-    img: null,
-    yearOfGrad: "2028",
-  },
-  {
-    id: "23JE0847",
-    name: "Bobbili Nandagopal",
-    email: "23je0248@iitism.ac.in",
-    contactNo: "7036480245",
-    links: {
-      linkedin: "https://www.linkedin.com/in/nandagopal-bobbili",
-    },
-    img: null,
-    yearOfGrad: "2027",
-  },
+  
+  
+ 
+
+  
   {
     id: "23JE0498",
     name: "Korukonda Dharmik",
@@ -266,33 +572,8 @@ export const members: Member[] = [
     yearOfGrad: "2027",
   },
 
-  {
-    id: "23JE0076",
-    name: "Vidya Shree",
-    email: "23je0076@iitism.ac.in",
-    contactNo: null,
-    links: {},
-    img: null,
-    yearOfGrad: "2027",
-  },
-  {
-    id: "23JE1034",
-    name: "Shyamsri TS",
-    email: "23je1034@iitism.ac.in",
-    contactNo: "6302025136",
-    links: {},
-    img: null,
-    yearOfGrad: "2027",
-  },
-  {
-    id: "23JE0670",
-    name: "Nithya Sahasra",
-    email: "23je0670@iitism.ac.in",
-    contactNo: null,
-    links: {},
-    img: null,
-    yearOfGrad: "2027",
-  },
+
+  
   {
     id: "23JE0738",
     name: "Saranya Prathipati",
@@ -304,17 +585,7 @@ export const members: Member[] = [
     img: null,
     yearOfGrad: "2027",
   },
-  {
-    id: "23JE0872",
-    name: "Abhishek Saranga",
-    email: "23je0872@iitism.ac.in",
-    contactNo: "7075978399",
-    links: {
-      linkedin: "https://www.linkedin.com/in/abhishek-saranga-aa0508287/",
-    },
-    img: null,
-    yearOfGrad: "2027",
-  },
+
   {
     id: "23JE0404",
     name: "Hima Yadav",
@@ -324,17 +595,7 @@ export const members: Member[] = [
     img: "hima-yadav.jpg",
     yearOfGrad: "2027",
   },
-  {
-    id: "23JE0663",
-    name: "Likitha Nookala",
-    email: "23je0663@iitism.ac.in",
-    contactNo: "8897143364",
-    links: {
-      linkedin: "https://www.linkedin.com/in/likitha-nookala-279909289",
-    },
-    img: null,
-    yearOfGrad: "2027",
-  },
+
   {
     id: "23JE0190",
     name: "Ayan Aslam",
@@ -360,85 +621,4 @@ export const members: Member[] = [
     img: null,
     yearOfGrad: "2027",
   },
-  {
-    id: "22JE0028",
-    name: "Abhirup Adhikary",
-    email: "abhirup.adhikary2004@gmail.com",
-    contactNo: "+91-8240804459",
-    links: {
-      github: "https://github.com/AbhiZx18324",
-      linkedin: "https://www.linkedin.com/in/abhirup-adhikary/",
-    },
-    img: "abhirup-adhikary.jpg",
-    yearOfGrad: "2026",
-  },
-  {
-    id: "22JE0873",
-    name: "Sarvesh Bhoyar",
-    email: "Sarveshkbhoyar2022@gmail.com",
-    contactNo: "9405437975",
-    links: {
-      github: "https://github.com/sarveshbhoyar22",
-      linkedin: "https://www.linkedin.com/in/sarvesh-bhoyar-711818239/",
-      instagram:
-        "https://www.instagram.com/sarvesh_bhoyar_/profilecard/igsh=MXExd3I1enNkcXloNQ==",
-      website: "https://sarvesh-bhoyar.onrender.com/",
-    },
-    img: "sarvesh-bhoyar.jpg",
-    yearOfGrad: "2026",
-  },
-  {
-    id: "22JE0291",
-    name: "Christy Harshitha Dakarapu",
-    email: "22je0291@iitism.ac.in",
-    contactNo: "9346582015",
-    links: {},
-    img: "",
-    yearOfGrad: "2026",
-  },
-  {
-    id: "22JE0399",
-    name: "Harshkumar Gupta",
-    email: "22je0399@iitism.ac.in",
-    contactNo: "9892718815",
-    links: {
-      github: "https://github.com/hkg-2424",
-      linkedin: "https://www.linkedin.com/in/harshkumar-gupta-98b452250/",
-    },
-    img: null,
-    yearOfGrad: "2027",
-  },
-  {
-    id: "22JE0665",
-    name: "Parth Dambhare",
-    email: "dambhareparth08@gmail.com",
-    contactNo: null,
-    links: {},
-    img: null,
-    yearOfGrad: "2026",
-  },
-  {
-    id: "22JE0000",
-    name: "Vinit Bodhe",
-    email: "",
-    contactNo: null,
-    links: {
-      linkedin: "https://www.linkedin.com/in/vinitsbodhe/",
-    },
-    img: "vinit.png",
-    yearOfGrad: "2026",
-  },
-  {
-    id: "22JE0713",
-    name: "Pranav Sanjay Bhasakhetre",
-    email: "22je0713@iitism.ac.in",
-    contactNo: "7499951132",
-    links: {
-      linkedin:
-        "https://www.linkedin.com/in/pranav-bhasakhetre-492783255?utm_source=share",
-      instagram: "https://www.instagram.com/pranavbhasakhetre",
-    },
-    img: "pranav-basakhetre.jpg",
-    yearOfGrad: "2026",
-  },
-];
+]
